@@ -1,0 +1,11 @@
+{
+  "title": "Landing Page",
+  "description": "Effortlessly create event landing pages with integrated payment gateways, designed for organizations to enhance engagement and streamline ticket sales.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
